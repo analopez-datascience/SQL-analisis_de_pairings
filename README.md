@@ -15,6 +15,9 @@ Estructura del proyecto:
 En este repositorio encontrarás las tablas que dan respuesta a la preguntas de negocio, el EDA de la base de datos y el srcipt de SQL dónde se recogen las diferentes querys para extraer los datos que necesitamos. 
 
 
+
+Participantes:
+
 Marga Obrador
 https://www.linkedin.com/in/margaritaobrador/
 
